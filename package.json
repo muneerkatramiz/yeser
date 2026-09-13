@@ -1,0 +1,12 @@
+{
+  "name": "carrier-crm",
+  "version": "1.0.0",
+  "description": "غرفة تتبع حركة الناقلات - CRM بسيط بدون قاعدة بيانات خارجية",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
